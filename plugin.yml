@@ -1,0 +1,5 @@
+name: JoinUI
+main: MulkiAqi192\JoinUI\Main
+author: MulkiAqi192
+api: [3.12.0, 3.12.2]
+version: 1.0
